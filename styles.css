@@ -1,0 +1,20 @@
+* {
+    /* Não altere nada aqui dentro */
+    font-family: "Poppins", sans-serif;
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #FFFFFF;
+    /* Primeiro */
+    --gray: #1D1D1D;
+    --blue: #13E3FF;
+
+    /* Segundo */
+    --green: #30995A;
+    --light-green: #DAD873;
+}
