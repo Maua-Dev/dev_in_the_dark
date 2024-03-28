@@ -27,7 +27,7 @@ Na competição, as duplas de competidores disputam para implementar um design d
 ## Datas, Local e Horário:
 
 - **Local:** Instituto Mauá de Tecnologia, indeterminado.
-- **Data e Horário:** 20/04/2024, das 9h00 às 11h00.
+- **Data e Horário:** 29/06/2024, 9h00
 
 ## Planejamento:
 
