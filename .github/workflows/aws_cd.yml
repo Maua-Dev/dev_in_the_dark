@@ -41,7 +41,7 @@ jobs:
       - name: Build and Export
         run: |
           mkdir -p dist
-          cp images/ dist/
+          cp -r images/ dist/
           cp index.html dist/
           cp styles.css dist/
       - name: Setup envs
