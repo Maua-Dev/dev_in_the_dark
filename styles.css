@@ -10,15 +10,15 @@
 }
 
 :root {
-    /* Não altere nada aqui dentro */
-    --white: #FFFFFF;
     /* Primeiro */
+    --red: #FF0000;
+    --green: #30995A;
     --gray: #1D1D1D;
-    --blue: #13E3FF;
 
     /* Segundo */
-    --green: #30995A;
-    --light-green: #DAD873;
+    --red: #FF0000;
+    --gray: #1D1D1D;
+    --white: #FFFFFF;
 }
 
 /* Escreva a partir daqui */
