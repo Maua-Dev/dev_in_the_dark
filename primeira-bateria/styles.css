@@ -8,8 +8,12 @@
     box-sizing: border-box;
 }
 
+body {
+    height: 100vh;
+    width: 100%;
+}
+
 :root {
-    /* Primeiro */
     --red: #FF0000;
     --green: #30995A;
     --gray: #1D1D1D;
