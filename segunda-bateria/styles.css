@@ -6,16 +6,9 @@
     padding: 0;
     border: 0;
     box-sizing: border-box;
-    background-color: #13E3FF;
 }
 
 :root {
-    /* Primeiro */
-    --red: #FF0000;
-    --green: #30995A;
-    --gray: #1D1D1D;
-
-    /* Segundo */
     --red: #FF0000;
     --gray: #1D1D1D;
     --white: #FFFFFF;
