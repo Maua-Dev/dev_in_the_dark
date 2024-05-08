@@ -1,11 +1,13 @@
 {
-    "background.enable": true,
-      "background.fullscreen": {
-        "images": ["https://d3ebnpochj0915.cloudfront.net/dev_in_the_dark_logo.jpg"],
-        "opacity": 0.91, 
-        "size": "cover", 
-        "position": "center", 
-        "interval": 0 
-      },
-      "workbench.colorTheme": "dev-in-the-dark"
+  "background.enable": true,
+  "background.fullscreen": {
+    "images": [
+      "https://d3ebnpochj0915.cloudfront.net/dark_logo.jpg"
+    ],
+    "opacity": 0.91,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "workbench.colorTheme": "tema"
 }

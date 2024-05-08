@@ -1,0 +1,21 @@
+{
+    "name": "tema",
+    "type": "dark",
+    "colors": {
+      "neon": "#1F51FF",
+      "escuro": "#050D2A",
+      "mid": "#425492"
+    },
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+      "neon": {
+        "foreground": "${neon}"
+      },
+      "escuro": {
+        "foreground": "${escuro}"
+      },
+      "mid": {
+        "foreground": "${mid}"
+      }
+    }
+  }
