@@ -8,7 +8,38 @@
     "interval": 0
   },
   "workbench.colorCustomizations": {
-    "editor.background": "#080808",
-    "sideBar.background": "#080808"
-  }
+    "editor.background": "#000000",
+    
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "source.css", 
+                    "source.html",
+                ],
+                "settings": {
+                    "foreground": "#1F51FF",
+                },
+                
+            },
+            {
+              "scope": [ "entity.name.tag.html", "text.html.basic","comment.block.css"  ], 
+              "settings": {
+                  "foreground": "#ff0009",
+              }
+          },
+          {
+            "scope": [
+                "entity.other.attribute-name.html",
+                 "string.quoted.double.html",
+                 
+            ],
+            "settings": {
+                "foreground": "#1fc1ff",
+            },
+            
+        },
+        ]
+    }
 }
