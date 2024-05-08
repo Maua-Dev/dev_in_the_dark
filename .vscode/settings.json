@@ -1,0 +1,10 @@
+{
+    "background.enable": true,
+    "background.fullscreen": {
+        "images": ["https://i.ibb.co/LnR6F32/dark.jpg"],
+        "opacity": 0.91, 
+        "size": "cover", 
+        "position": "center", 
+        "interval": 0 
+      }
+}
