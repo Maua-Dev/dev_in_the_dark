@@ -1,7 +1,7 @@
 {
     "background.enable": true,
-    "background.fullscreen": {
-        "images": ["https://i.ibb.co/LnR6F32/dark.jpg"],
+      "background.fullscreen": {
+        "images": ["https://i.ibb.co/hWg9ttD/dark.jpg"],
         "opacity": 0.91, 
         "size": "cover", 
         "position": "center", 
