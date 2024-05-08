@@ -6,5 +6,6 @@
         "size": "cover", 
         "position": "center", 
         "interval": 0 
-      }
+      },
+      "workbench.colorTheme": "dev-in-the-dark"
 }
