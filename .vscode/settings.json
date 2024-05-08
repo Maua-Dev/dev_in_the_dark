@@ -1,7 +1,7 @@
 {
     "background.enable": true,
       "background.fullscreen": {
-        "images": ["https://i.ibb.co/hWg9ttD/dark.jpg"],
+        "images": ["https://d3ebnpochj0915.cloudfront.net/dev_in_the_dark_logo.jpg"],
         "opacity": 0.91, 
         "size": "cover", 
         "position": "center", 
