@@ -9,11 +9,13 @@
 }
 
 body {
+    /* Não altere nada aqui dentro */
     height: 100vh;
     width: 100%;
 }
 
 :root {
+    /* Não altere nada aqui dentro */
     --red: #FF0000;
     --gray: #1D1D1D;
     --white: #FFFFFF;

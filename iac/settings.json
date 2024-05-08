@@ -3,12 +3,13 @@
     "images": [
       "https://d3ebnpochj0915.cloudfront.net/dark_logo.jpg"
     ],
+    "opacity": 0.6,
     "size": "cover",
     "position": "center",
     "interval": 0
   },
   "workbench.colorCustomizations": {
-    "editor.background": "#080808",
-    "sideBar.background": "#080808"
+    "editor.background": "#000000",
+    "editor.foreground": "#1F51FF",
   }
 }
