@@ -14,9 +14,8 @@ body {
 }
 
 :root {
-    --red: #FF0000;
-    --green: #30995A;
-    --gray: #1D1D1D;
+    --blue: #004587;
+    --gray: #CCCCCC;
 }
 
 /* Escreva a partir daqui */
