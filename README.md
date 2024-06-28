@@ -6,7 +6,7 @@ Na competição, os competidores disputam para implementar um design de site com
 
 ## Competição:
 
-- A dupla deverá fazer login com a conta do GitHub no computador para realizar o commit ao fim.
+- O competidor deverá fazer login com a conta do GitHub no computador para realizar o commit ao fim.
 - Clone o repositório com o seu nome e abra no editor de código.
 - Você verá duas pastas, uma para primeira bateria e uma para a segunda. Dentro haverão um arquivo HTML e um CSS; esses serão os únicos arquivos que você modificará. Não crie outros arquivos.
 - Coloque o editor de texto em tela cheia e inicie os trabalhos quando for dada a largada.

@@ -15,8 +15,10 @@ body {
 }
 
 :root {
-    --blue: #004587;
-    --gray: #CCCCCC;
+    /* Não altere nada aqui dentro */
+    --gray: #1D1D1D;
+    --blue: #13E3FF;
+    --white: #FFFFFF;
 }
 
 /* Escreva a partir daqui */
